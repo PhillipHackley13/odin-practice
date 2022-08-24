@@ -1,4 +1,6 @@
-/* style.css */
+/* styles.css */
+/* separate document that is used for external CSS, makes the code much cleaner
+and more organized, most widely used method */
 
 div {
     background-color:red;
