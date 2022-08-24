@@ -1,0 +1,11 @@
+/* styles.css */
+/* separate document that is used for external CSS, makes the code much cleaner
+and more organized, most widely used method */
+
+div {
+    background-color:red;
+    color:white;
+    font-size:32px;
+    text-align:center;
+    font-weight:bold;
+}
